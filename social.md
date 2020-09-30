@@ -6,10 +6,10 @@ Fork this repository.
 
 #### Template
 Member Id: null
-* [Facebook](null)
-* [Twitter](null)
-* [LinkedIn](null)
-* [Github](null)
+* [Facebook](link-to-your-facebook)
+* [Twitter](link-to-your-twitter)
+* [LinkedIn](link-to-your-linkedin)
+* [Github](link-to-your-github)
 
 
 ### Members Social Handles
