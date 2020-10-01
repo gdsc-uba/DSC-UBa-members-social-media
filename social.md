@@ -27,3 +27,9 @@ Member Id: null
 * [Github](https://github.com/Hawawou)
 
 
+
+
+Member Id: 2
+* [Facebook](https://www.facebook.com/alouzeh.brandon)
+* [LinkedIn](http://linkedin.com/in/alouzeh-mahbuh-a963811ab)
+* [Github](http://gitup.com/bernandez)
