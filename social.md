@@ -26,4 +26,10 @@ Member Id: null
 * [LinkedIn](https://www.linkedin.cn/in/hawawou-oumarou-2b1b831b4/)
 * [Github](https://github.com/Hawawou)
 
+Member Id: 2
+* [Facebook](https://web.facebook.com/Stefania.Nkwatoh)
+* [Twitter](https://twitter.com/smboyi)
+* [LinkedIn](https://www.linkedin.com/in/stephanie-nkwatoh-55b008173)
+* [Github](https://github.com/steph237)
+
 
