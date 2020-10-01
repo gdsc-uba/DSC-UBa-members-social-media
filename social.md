@@ -33,3 +33,9 @@ Member Id: 2
 * [Github](https://github.com/steph237)
 
 
+
+
+Member Id: 2
+* [Facebook](https://www.facebook.com/alouzeh.brandon)
+* [LinkedIn](http://linkedin.com/in/alouzeh-mahbuh-a963811ab)
+* [Github](http://gitup.com/bernandez)
