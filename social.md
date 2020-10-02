@@ -41,7 +41,6 @@ Member Id: 2
 * [Github](http://gitup.com/bernandez)
 
 Member Id: 3
-* [Facebook](https: //www.facebook.com/Julie.lovelace)
 * [Twitter](https://twitter.com/juliana31153417)
 * [LinkedIn](https://www.linkedin.com/in/juliana-eudoxie-a899561b1)
 * [Github](https://github.com/juliana237)
