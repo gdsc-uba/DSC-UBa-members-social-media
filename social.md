@@ -43,5 +43,5 @@ Member Id: 2
 Member Id: 3
 * [Facebook](https: //www.facebook.com/Julie.lovelace)
 * [Twitter](https://twitter.com/juliana31153417)
-* [LinkedIn](https://www.linkedin.com/in/Juliana Eudoxie)
+* [LinkedIn](https://www.linkedin.com/in/juliana-eudoxie-a899561b1)
 * [Github](https://github.com/juliana237)
