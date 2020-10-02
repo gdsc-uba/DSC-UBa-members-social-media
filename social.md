@@ -32,6 +32,14 @@ Member Id: 2
 * [LinkedIn](https://www.linkedin.com/in/stephanie-nkwatoh-55b008173)
 * [Github](https://github.com/steph237)
 
+Member Id: 5
+* [Facebook](https//web.Facebook.com/nyong.godwill/)
+* [Twitter](https//twitter.com/godwill_nyong)
+* [LinkedIn](https://http://linkedin.com/in/nyong-godwill-6906bb1b5)
+* [Github](https://github.com/godsakani)
+
+
+
 
 
 
