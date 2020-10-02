@@ -39,3 +39,9 @@ Member Id: 2
 * [Facebook](https://www.facebook.com/alouzeh.brandon)
 * [LinkedIn](http://linkedin.com/in/alouzeh-mahbuh-a963811ab)
 * [Github](http://gitup.com/bernandez)
+
+Member Id: 3
+* [Facebook](https: //www.facebook.com/Julie.lovelace)
+* [Twitter](https://twitter.com/juliana31153417)
+* [LinkedIn](https://www.linkedin.com/in/Juliana Eudoxie)
+* [Github](https://github.com/juliana237)
