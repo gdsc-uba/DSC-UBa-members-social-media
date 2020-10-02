@@ -39,3 +39,8 @@ Member Id: 2
 * [Facebook](https://www.facebook.com/alouzeh.brandon)
 * [LinkedIn](http://linkedin.com/in/alouzeh-mahbuh-a963811ab)
 * [Github](http://gitup.com/bernandez)
+
+Member Id: 5
+* [Facebook](https://www.facebook.com/anne.fonyuy.nana)
+* [LinkedIn](https://www.linkedin.com/in/lukong-anne-machinda-berinyuy-a14a831b8)
+* [Github](https://github.com/Lukong123)
