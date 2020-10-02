@@ -39,3 +39,9 @@ Member Id: 2
 * [Facebook](https://www.facebook.com/alouzeh.brandon)
 * [LinkedIn](http://linkedin.com/in/alouzeh-mahbuh-a963811ab)
 * [Github](http://gitup.com/bernandez)
+
+Member Id: 1
+* [Facebook](https://web.facebook.com/mbah.unllimited.5)
+* [Twitter](https://twitter.com/mbahstephane1)
+* [LinkedIn](https://https://www.linkedin.com/in/mbah-stephane-8a48841b3)
+* [Github](https://github.com/mbahstephane),
