@@ -46,6 +46,12 @@ Member Id: 2
 * [Github](http://gitup.com/bernandez)
 
 
+Member Id: 3
+* [Twitter](https://twitter.com/juliana31153417)
+* [LinkedIn](https://www.linkedin.com/in/juliana-eudoxie-a899561b1)
+* [Github](https://github.com/juliana237)
+
+
 Member ID: 5
 * [Facebook](https://www.facebook.com/brian.njimukara)
 * [LinkedIn](https://www.linkedin.com/in/njimukara-brian-njimukara-76a327186)
@@ -62,5 +68,4 @@ Member Id: 4
 * [Facebook](https://web.facebook.com/ngumih.fien)
 * [Twitter](https://twitter.com/f__ien)
 * [Github](https://github.com/fienne),
-
 
