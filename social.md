@@ -45,6 +45,12 @@ Member Id: 2
 * [LinkedIn](http://linkedin.com/in/alouzeh-mahbuh-a963811ab)
 * [Github](http://gitup.com/bernandez)
 
+Member Id: 5
+* [Facebook](https://web.facebook.com/hans-ad)
+* [Twitter](https://twitter.com/roomfinder237)
+* [LinkedIn](https://www.linkedin.com/in/akuwiyadze-hans)
+* [Github](https://github.com/hansel02)
+
 
 Member Id: 5
 * [Github](https://github.com/nuilewis)
@@ -72,4 +78,5 @@ Member Id: 4
 * [Facebook](https://web.facebook.com/ngumih.fien)
 * [Twitter](https://twitter.com/f__ien)
 * [Github](https://github.com/fienne),
+
 
