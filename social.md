@@ -46,6 +46,12 @@ Member Id: 2
 * [Github](http://gitup.com/bernandez)
 
 
+Member Id: 4
+* [Facebook](https://www.facebook.com/tadonke.venus)
+* [Twitter](https://twitter.com/venusv)
+* [LinkedIn](https://www.linkedin.com/)
+* [Github](https://github.com/VenusV-prog),
+
 Member Id: 1
 * [Facebook](https://web.facebook.com/mbah.unllimited.5)
 * [Twitter](https://twitter.com/mbahstephane1)
@@ -85,5 +91,6 @@ Member Id: 4
 * [Facebook](https://web.facebook.com/ngumih.fien)
 * [Twitter](https://twitter.com/f__ien)
 * [Github](https://github.com/fienne),
+
 
 
