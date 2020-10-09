@@ -92,5 +92,10 @@ Member Id: 4
 * [Twitter](https://twitter.com/f__ien)
 * [Github](https://github.com/fienne),
 
+Member Id: 6
+* [Facebook](https://free.facebook.com/tanju.brunostar)
+* [Twitter](https://mobile.twitter.com/TBStar7)
+* [Github](https://github.com/Brunostar)
+
 
 
