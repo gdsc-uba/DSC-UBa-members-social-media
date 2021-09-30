@@ -107,6 +107,9 @@ Member Id: 6
 * [Twitter](https://twitter.com/nfonjeannoel1)
 * [Github](https://github.com/nfonjeannoel),
 
+Member Id: 3
+* [Twitter](https://twitter.com/ajim_bong)
+* [Github](github.com/ajim-bong),
 
 
 
