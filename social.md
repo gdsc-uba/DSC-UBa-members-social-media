@@ -102,10 +102,11 @@ Member Id: 5
 * [Twitter](https://twitter.com/Afungchwi2)
 * [Github](https://github.com/Afungchwi/),
 
-Member Id: 5
-* [Facebook](https://www.facebook.com/yokwejuste5013/)
-* [Twitter](https://twitter.com/yokwejuste)
-* [Github](https://github.com/yokwejuste/),
+Member Id: 6
+* [Facebook](https://m.facebook.com/Jeannoelnfon)
+* [Twitter](https://twitter.com/nfonjeannoel1)
+* [Github](https://github.com/nfonjeannoel),
+
 
 
 
