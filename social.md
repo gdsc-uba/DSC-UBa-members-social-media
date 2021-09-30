@@ -107,7 +107,9 @@ Member Id: 6
 * [Twitter](https://twitter.com/nfonjeannoel1)
 * [Github](https://github.com/nfonjeannoel),
 
-
-
+Member Id: 7
+* [Facebook](https://m.facebook.com/nfonjoseph)
+* [Twitter](https://twitter.com/nfonjosep17)
+* [Github](https://github.com/NfonJoseph17),
 
 
