@@ -143,10 +143,11 @@ Member Id: 10
 * [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
 * [Github](https://github.com/chikarl)
 
-
-
-
-
+Member Id: 11
+* [Facebook](https://www.facebook.com/profile.php?id=100071667162572/)
+* [Twitter](https://mobile.twitter.com/agienpetra)
+* [LinkedIn](www.linkedin.com/in/mma-petra-64a136222/)
+* [Github](https://github.com/Petra-eng-hub)
 
 
 
