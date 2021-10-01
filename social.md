@@ -74,6 +74,11 @@ Member Id: 3
 * [LinkedIn](https://www.linkedin.com/in/juliana-eudoxie-a899561b1)
 * [Github](https://github.com/juliana237)
 
+Member Id: 10
+* [Twitter](https://twitter.com/yokwejuste)
+* [LinkedIn](https://www.linkedin.com/in/yokwejuste)
+* [Github](https://github.com/yokwejuste)
+* [Facebook](https://www.facebook.com/yokwejuste5013)
 
 Member ID: 5
 * [Facebook](https://www.facebook.com/brian.njimukara)
