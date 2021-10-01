@@ -151,6 +151,12 @@ Member Id: 10
 * [Twitter](https://twitter.com/chi_karl)
 * [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
 * [Github](https://github.com/chikarl)
+r
+Member Id: 11
+* [Facebook](https://www.facebook.com/profile.php?id=100071667162572/)
+* [Twitter](https://mobile.twitter.com/agienpetra)
+* [LinkedIn](www.linkedin.com/in/mma-petra-64a136222/)
+* [Github](https://github.com/Petra-eng-hub)
 
 Member Id: 12
 *[Facebook](https://m.facebook.com/home.php)
@@ -174,7 +180,6 @@ Member Id: 11
 * [Twitter](https://twitter.com/TBStar7)
 * [LinkedIn](https://www.linkedin.com/in/tanju-brunostar-4bb98b205//)
 * [Github](https://github.com/Brunostar)
-
 
 
 
