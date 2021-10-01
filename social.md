@@ -131,6 +131,11 @@ Member Id:8
 *[Twitter].(https://twitter.com/AndersonNfuh)
 *[Github].(https://github.com/Andy-Kin3)
 
+Member Id: 9
+* [Twitter](https://twitter.com/spyke_lionel)
+* [Github](https://github.com/spykelion)
+* [Linkedin](https://www.linkedin.com/in/ndi-lionel-1b68b21b3/)
+* [Instagram](https://www.instagram.com/devacoder/),
 
 
 
