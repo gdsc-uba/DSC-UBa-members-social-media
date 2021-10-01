@@ -120,10 +120,15 @@ Member Id: 7
 * [Instagram](https://www.instagram.com/uni_bk),
 
 Member Id:8
-*[Facebook].(https://web.facebook.com/profile.php?id=100049279743531)
-*[Twitter].(https://twitter.com/AndersonNfuh)
-*[Github].(https://github.com/Andy-Kin3)
+* [Facebook](https://web.facebook.com/profile.php?id=100049279743531)
+* [Twitter](https://twitter.com/AndersonNfuh)
+* [Github](https://github.com/Andy-Kin3)
 
+Member Id: 10
+* [Facebook](https://www.facebook.com/karl.junior.353/)
+* [Twitter](https://twitter.com/chi_karl)
+* [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
+* [Github](https://github.com/chikarl)
 
 
 
