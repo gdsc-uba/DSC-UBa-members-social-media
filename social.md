@@ -119,6 +119,15 @@ Member Id: 7
 * [Linkedin](https://www.linkedin.com/in/elroy-kanye)
 * [Instagram](https://www.instagram.com/elroykanye),
 
+
+Member Id: 12
+* [Facebook](https://m.facebook.com/yokwejuste5013)
+* [Twitter](https://twitter.com/yokwejuste)
+* [Github](https://github.com/yokwejuste)
+* [Linkedin](https://www.linkedin.com/in/yokwejuste)
+* [Instagram](https://www.instagram.com/Yokwejuste),
+
+
 Member Id: 8
 * [Facebook](https://m.facebook.com/afumbom.emmanuel?)
 * [Twitter](https://twitter.com/Unib74622163?s=09)
@@ -144,10 +153,19 @@ Member Id: 10
 * [Github](https://github.com/chikarl)
 
 Member Id: 11
+
 * [Facebook](https://www.facebook.com/bonalais.amahnui.5)
 * [Twitter](https://twitter.com/BonalaisA)
 * [LinkedIn](https://www.linkedin.com/in/abongwa-bonalais-a4a34a1a9/)
 * [Github](https://github.com/Burnleydev1)
+
+* [Facebook](https://www.facebook.com/tanju.brunostar.1)
+* [Twitter](https://twitter.com/TBStar7)
+* [LinkedIn](https://www.linkedin.com/in/tanju-brunostar-4bb98b205//)
+* [Github](https://github.com/Brunostar)
+
+
+
 
 
 
