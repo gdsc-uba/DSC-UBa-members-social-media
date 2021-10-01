@@ -112,6 +112,28 @@ Member Id: 1
 * [Twitter](https://twitter.com/Elabrava20)
 * [Github](https://github.com/Njong392),
 
+Member Id: 7
+* [Facebook](https://m.facebook.com/afumbom.emmanuel?)
+* [Twitter](https://twitter.com/Unib74622163?s=09)
+* [Github](https://github.com/unib1)
+* [Linkedin](https://www.linkedin.com/in/uni-b-43266a195)
+* [Instagram](https://www.instagram.com/uni_bk),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
