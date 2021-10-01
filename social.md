@@ -113,6 +113,13 @@ Member Id: 1
 * [Github](https://github.com/Njong392),
 
 Member Id: 7
+* [Facebook](https://m.facebook.com/elroykanye2.0)
+* [Twitter](https://twitter.com/elroykanye)
+* [Github](https://github.com/elroykanye)
+* [Linkedin](https://www.linkedin.com/in/elroy-kanye)
+* [Instagram](https://www.instagram.com/elroykanye),
+
+Member Id: 8
 * [Facebook](https://m.facebook.com/afumbom.emmanuel?)
 * [Twitter](https://twitter.com/Unib74622163?s=09)
 * [Github](https://github.com/unib1)
@@ -124,11 +131,19 @@ Member Id:8
 * [Twitter](https://twitter.com/AndersonNfuh)
 * [Github](https://github.com/Andy-Kin3)
 
+Member Id: 9
+* [Twitter](https://twitter.com/spyke_lionel)
+* [Github](https://github.com/spykelion)
+* [Linkedin](https://www.linkedin.com/in/ndi-lionel-1b68b21b3/)
+* [Instagram](https://www.instagram.com/devacoder/)
+
 Member Id: 10
 * [Facebook](https://www.facebook.com/karl.junior.353/)
 * [Twitter](https://twitter.com/chi_karl)
 * [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
 * [Github](https://github.com/chikarl)
+
+
 
 
 
