@@ -102,7 +102,11 @@ Member Id: 5
 * [Twitter](https://twitter.com/Afungchwi2)
 * [Github](https://github.com/Afungchwi/),
 
-
+Member Id: 1
+* [Facebook](https://web.facebook.com/chelsea.banke)
+* [Twitter](https://twitter.com/C-Banke)
+* [LinkedIn](https://www.linkedin.com/in/chelsea-banke-65218120a)
+* [Github](https://github.com/chelsea-banke)
 
 
 
