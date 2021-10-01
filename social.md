@@ -119,6 +119,15 @@ Member Id: 7
 * [Linkedin](https://www.linkedin.com/in/elroy-kanye)
 * [Instagram](https://www.instagram.com/elroykanye),
 
+
+Member Id: 12
+* [Facebook](https://m.facebook.com/yokwejuste5013)
+* [Twitter](https://twitter.com/yokwejuste)
+* [Github](https://github.com/yokwejuste)
+* [Linkedin](https://www.linkedin.com/in/yokwejuste)
+* [Instagram](https://www.instagram.com/Yokwejuste),
+
+
 Member Id: 8
 * [Facebook](https://m.facebook.com/afumbom.emmanuel?)
 * [Twitter](https://twitter.com/Unib74622163?s=09)
@@ -142,12 +151,40 @@ Member Id: 10
 * [Twitter](https://twitter.com/chi_karl)
 * [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
 * [Github](https://github.com/chikarl)
-
+r
 Member Id: 11
 * [Facebook](https://www.facebook.com/profile.php?id=100071667162572/)
 * [Twitter](https://mobile.twitter.com/agienpetra)
 * [LinkedIn](www.linkedin.com/in/mma-petra-64a136222/)
 * [Github](https://github.com/Petra-eng-hub)
+
+Member Id: 12
+*[Facebook](https://m.facebook.com/home.php)
+*[Linkedin](https://www.linkedin.com/hp/)
+*[Github](https://github.com/Fienne)
+
+Member Id: 10
+* [Facebook](https://www.facebook.com/lukong.anne)
+* [Twitter](https://twitter.com/anne_machinda?s=09)
+* [LinkedIn](https://www.linkedin.com/in/lukong-anne-machinda-berinyuy-a14a831b8)
+* [Github](https://github.com/Lukong123)
+
+Member Id: 11
+
+* [Facebook](https://www.facebook.com/bonalais.amahnui.5)
+* [Twitter](https://twitter.com/BonalaisA)
+* [LinkedIn](https://www.linkedin.com/in/abongwa-bonalais-a4a34a1a9/)
+* [Github](https://github.com/Burnleydev1)
+
+* [Facebook](https://www.facebook.com/tanju.brunostar.1)
+* [Twitter](https://twitter.com/TBStar7)
+* [LinkedIn](https://www.linkedin.com/in/tanju-brunostar-4bb98b205//)
+* [Github](https://github.com/Brunostar)
+
+
+
+
+
 
 
 
