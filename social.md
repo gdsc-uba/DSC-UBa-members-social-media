@@ -119,6 +119,15 @@ Member Id: 7
 * [Linkedin](https://www.linkedin.com/in/elroy-kanye)
 * [Instagram](https://www.instagram.com/elroykanye),
 
+
+Member Id: 12
+* [Facebook](https://m.facebook.com/yokwejuste5013)
+* [Twitter](https://twitter.com/yokwejuste)
+* [Github](https://github.com/yokwejuste)
+* [Linkedin](https://www.linkedin.com/in/yokwejuste)
+* [Instagram](https://www.instagram.com/Yokwejuste),
+
+
 Member Id: 8
 * [Facebook](https://m.facebook.com/afumbom.emmanuel?)
 * [Twitter](https://twitter.com/Unib74622163?s=09)
