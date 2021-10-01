@@ -143,6 +143,12 @@ Member Id: 10
 * [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
 * [Github](https://github.com/chikarl)
 
+Member Id: 11
+* [Facebook](https://www.facebook.com/tanju.brunostar.1)
+* [Twitter](https://twitter.com/TBStar7)
+* [LinkedIn](https://www.linkedin.com/in/tanju-brunostar-4bb98b205//)
+* [Github](https://github.com/Brunostar)
+
 
 
 
