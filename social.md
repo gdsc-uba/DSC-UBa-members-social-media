@@ -132,6 +132,13 @@ Member Id: 1
 * [Github](https://github.com/nfonjoseph17),
 l
 Member Id: 7
+* [Facebook](https://m.facebook.com/elroykanye2.0)
+* [Twitter](https://twitter.com/elroykanye)
+* [Github](https://github.com/elroykanye)
+* [Linkedin](https://www.linkedin.com/in/elroy-kanye)
+* [Instagram](https://www.instagram.com/elroykanye),
+
+Member Id: 8
 * [Facebook](https://m.facebook.com/afumbom.emmanuel?)
 * [Twitter](https://twitter.com/Unib74622163?s=09)
 * [Github](https://github.com/unib1)
