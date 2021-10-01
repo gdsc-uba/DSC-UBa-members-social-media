@@ -152,6 +152,13 @@ Member Id: 10
 * [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
 * [Github](https://github.com/chikarl)
 
+
+Member Id: 10
+* [Facebook](https://www.facebook.com/lukong.anne)
+* [Twitter](https://twitter.com/anne_machinda?s=09)
+* [LinkedIn](https://www.linkedin.com/in/lukong-anne-machinda-berinyuy-a14a831b8)
+* [Github](https://github.com/Lukong123)
+
 Member Id: 11
 
 * [Facebook](https://www.facebook.com/bonalais.amahnui.5)
