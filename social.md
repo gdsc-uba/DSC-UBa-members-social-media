@@ -74,11 +74,6 @@ Member Id: 3
 * [LinkedIn](https://www.linkedin.com/in/juliana-eudoxie-a899561b1)
 * [Github](https://github.com/juliana237)
 
-Member Id: 10
-* [Twitter](https://twitter.com/yokwejuste)
-* [LinkedIn](https://www.linkedin.com/in/yokwejuste)
-* [Github](https://github.com/yokwejuste)
-* [Facebook](https://www.facebook.com/yokwejuste5013)
 
 Member ID: 5
 * [Facebook](https://www.facebook.com/brian.njimukara)
@@ -105,37 +100,43 @@ Member Id: 6
 Member Id: 5
 * [Facebook](https://www.facebook.com/olivia.afungchwi/)
 * [Twitter](https://twitter.com/Afungchwi2)
-* [Github](https://github.com/Afungchwi/), 
- 
-Member Id: 1
-* [Facebook](https://web.facebook.com/chelsea.banke)
-* [Twitter](https://twitter.com/C-Banke)
-* [LinkedIn](https://www.linkedin.com/in/chelsea-banke-65218120a)
-* [Github](https://github.com/chelsea-banke)
+* [Github](https://github.com/Afungchwi/),
 
 Member Id: 6
 * [Facebook](https://m.facebook.com/Jeannoelnfon)
 * [Twitter](https://twitter.com/nfonjeannoel1)
-* [Github](https://github.com/nfonjeannoel), 
-Member Id: 3
-* [Twitter](https://twitter.com/ajim_bong)
-* [Github](github.com/ajim-bong),
+* [Github](https://github.com/nfonjeannoel),
 
 Member Id: 1
 * [Facebook](https://m.facebook.com/njong.emy)
 * [Twitter](https://twitter.com/Elabrava20)
-* [Github](https://github.com/Njong392), 
+* [Github](https://github.com/Njong392),
 
-Member Id: 1
-* [Facebook](https://m.facebook.com/nfonjoseph17)
-* [Twitter](https://twitter.com/nfonjoseph17)
-* [Github](https://github.com/nfonjoseph17),
-l
 Member Id: 7
 * [Facebook](https://m.facebook.com/afumbom.emmanuel?)
 * [Twitter](https://twitter.com/Unib74622163?s=09)
 * [Github](https://github.com/unib1)
 * [Linkedin](https://www.linkedin.com/in/uni-b-43266a195)
 * [Instagram](https://www.instagram.com/uni_bk),
+
+Member Id:8
+*[Facebook].(https://web.facebook.com/profile.php?id=100049279743531)
+*[Twitter].(https://twitter.com/AndersonNfuh)
+*[Github].(https://github.com/Andy-Kin3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
