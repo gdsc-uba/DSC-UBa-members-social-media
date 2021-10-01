@@ -127,15 +127,23 @@ Member Id: 8
 * [Instagram](https://www.instagram.com/uni_bk),
 
 Member Id:8
-*[Facebook].(https://web.facebook.com/profile.php?id=100049279743531)
-*[Twitter].(https://twitter.com/AndersonNfuh)
-*[Github].(https://github.com/Andy-Kin3)
+* [Facebook](https://web.facebook.com/profile.php?id=100049279743531)
+* [Twitter](https://twitter.com/AndersonNfuh)
+* [Github](https://github.com/Andy-Kin3)
 
 Member Id: 9
 * [Twitter](https://twitter.com/spyke_lionel)
 * [Github](https://github.com/spykelion)
 * [Linkedin](https://www.linkedin.com/in/ndi-lionel-1b68b21b3/)
-* [Instagram](https://www.instagram.com/devacoder/),
+* [Instagram](https://www.instagram.com/devacoder/)
+
+Member Id: 10
+* [Facebook](https://www.facebook.com/karl.junior.353/)
+* [Twitter](https://twitter.com/chi_karl)
+* [LinkedIn](https://www.linkedin.com/in/karl-junior-92851720b/)
+* [Github](https://github.com/chikarl)
+
+
 
 
 
