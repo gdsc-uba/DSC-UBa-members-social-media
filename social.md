@@ -100,7 +100,13 @@ Member Id: 6
 Member Id: 5
 * [Facebook](https://www.facebook.com/olivia.afungchwi/)
 * [Twitter](https://twitter.com/Afungchwi2)
-* [Github](https://github.com/Afungchwi/),
+* [Github](https://github.com/Afungchwi/), 
+ 
+Member Id: 1
+* [Facebook](https://web.facebook.com/chelsea.banke)
+* [Twitter](https://twitter.com/C-Banke)
+* [LinkedIn](https://www.linkedin.com/in/chelsea-banke-65218120a)
+* [Github](https://github.com/chelsea-banke)
 
 Member Id: 6
 * [Facebook](https://m.facebook.com/Jeannoelnfon)
@@ -120,21 +126,6 @@ Member Id: 7
 * [Instagram](https://www.instagram.com/uni_bk),
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
 
 
