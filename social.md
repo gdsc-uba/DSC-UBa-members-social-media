@@ -111,7 +111,10 @@ Member Id: 1
 Member Id: 6
 * [Facebook](https://m.facebook.com/Jeannoelnfon)
 * [Twitter](https://twitter.com/nfonjeannoel1)
-* [Github](https://github.com/nfonjeannoel),
+* [Github](https://github.com/nfonjeannoel), 
+Member Id: 3
+* [Twitter](https://twitter.com/ajim_bong)
+* [Github](github.com/ajim-bong),
 
 Member Id: 1
 * [Facebook](https://m.facebook.com/njong.emy)
@@ -126,6 +129,5 @@ Member Id: 7
 * [Instagram](https://www.instagram.com/uni_bk),
 
 
-.
 
 
