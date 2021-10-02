@@ -65,10 +65,6 @@ Member Id: 5
 * [Github](https://github.com/hansel02)
 
 
-Member Id: 5
-* [Github](https://github.com/nuilewis)
-
-
 Member Id: 3
 * [Twitter](https://twitter.com/juliana31153417)
 * [LinkedIn](https://www.linkedin.com/in/juliana-eudoxie-a899561b1)
@@ -186,6 +182,16 @@ Member Id: 5
 * [Twitter](https://twitter.com/Marcel81776974)
 * [LinkedIn](https://www.linkedin.com/in/marcel-ngong-bab585190)
 * [Github](https://github.com/Marcel-star-crtl)
+
+Member Id: 13
+* [Behance](https://www.behance.net/nuilewis)
+* [Twitter](https://twitter.com/nui_lewis)
+* [Github](https://github.com/nuilewis)
+* [Instagram](https://www.instagram.com/nui_lewis)
+
+
+
+
 
 
 
