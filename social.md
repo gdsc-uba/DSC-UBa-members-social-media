@@ -189,6 +189,14 @@ Member Id: 13
 * [Github](https://github.com/nuilewis)
 * [Instagram](https://www.instagram.com/nui_lewis)
 
+Member Id: 14
+* [Facebook](https://www.facebook.com/fahjoel.fah/)
+* [Twitter](https://twitter.com/FahDejon)
+* [LinkedIn](https://www.linkedin.com/in/joel-fah-b3555a204)
+* [Github](https://github.com/Joel-Fah)
+* [Stack-Overflow](https://stackoverflow.com/users/15228791/joel-fah)
+* [Sololearn](https://www.sololearn.com/profile/18138142)
+
 
 
 
