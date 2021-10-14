@@ -217,7 +217,13 @@ Member Id: 16
 * [Facebook](https://www.facebook.com/njei.nicodona)
 * [Twitter](https://twitter.com/nicodona)
 * [LinkedIn](https://www.linkedin.com/in/nicodona)
-* [Github](https://github.com/nicodona)
+* [Github](https://github.com/nicodona),
+
+Member Id: 18
+* [Facebook](https://web.facebook.com/mbah.unllimited.5)
+* [Twitter](https://twitter.com/mbahstephane1)
+* [LinkedIn](https://https://www.linkedin.com/in/mbah-stephane-8a48841b3)
+* [Github](https://github.com/mbahstephane),
 
 
 
