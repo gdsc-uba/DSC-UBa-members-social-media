@@ -222,7 +222,10 @@ Member Id: 16
 
 
 
-
+Member Id: 18
+* [Twitter](https://twitter.com/Lewin2001)
+* [Github](https://github.com/nlewin20)
+* [Instagram](https://www.instagram.com/heislewin_21)
 
 
 
